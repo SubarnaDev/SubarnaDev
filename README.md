@@ -81,7 +81,7 @@
   <a href="https://discord.com/subarna6797" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://discord.com/subarna6797" target="_blank">
+  <a href="https://paypal.me/Subarna741?country.x=IN&locale.x=en_GB" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
   <a href="https://www.youtube.com/@unicreare" target="_blank">
